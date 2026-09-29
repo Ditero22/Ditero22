@@ -1,4 +1,4 @@
-![Karl Diether Ortega — Frontend Developer](assets/profile-banner.svg)
+![Karl Diether Ortega — Frontend Developer](assets/profile-editorial.svg)
 
 <p align="right">
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
