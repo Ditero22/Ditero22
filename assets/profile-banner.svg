@@ -1,37 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="500" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
 <title id="title">Karl Diether Ortega — Frontend Developer</title>
-<desc id="desc">A navy banner with cyan accents and an abstract interface illustration. Building for the web and beyond.</desc>
+<desc id="desc">An editorial black and ivory banner with large typography, fine architectural lines, and a muted bronze accent.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09111f"/><stop offset="1" stop-color="#14263d"/></linearGradient>
-<linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+<linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#191b1d"/><stop offset="1" stop-color="#0d0f11"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#b8a184" stop-opacity=".1"/><stop offset="1" stop-color="#b8a184" stop-opacity=".55"/></linearGradient>
 </defs>
-<rect width="1200" height="380" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="380" rx="20" fill="url(#grid)"/>
-<path d="M0 360H1200" stroke="url(#accent)" stroke-width="3" opacity=".8"/>
-<circle cx="1090" cy="85" r="190" fill="none" stroke="#67e8f9" stroke-opacity=".09"/>
-<circle cx="1090" cy="85" r="150" fill="none" stroke="#67e8f9" stroke-opacity=".07"/>
-<g font-family="Segoe UI, Arial, sans-serif">
-<rect x="60" y="58" width="204" height="30" rx="15" fill="#163347"/>
-<circle cx="78" cy="73" r="4" fill="#67e8f9"/>
-<text x="92" y="78" fill="#a5f3fc" font-size="12" letter-spacing="2">FRONTEND DEVELOPER</text>
-<text x="60" y="160" fill="#f8fafc" font-size="51" font-weight="700" letter-spacing="-1.7">Karl Diether Ortega</text>
-<text x="62" y="209" fill="#cbd5e1" font-size="24">Building for the web</text>
-<text x="62" y="244" fill="#67e8f9" font-size="24">and beyond.</text>
-<text x="62" y="310" fill="#94a3b8" font-size="14" letter-spacing="2">REACT / TYPESCRIPT / FLUTTER</text>
+<rect width="1440" height="500" fill="url(#surface)"/>
+<path d="M970 0V500M1130 0V500M1290 0V500M970 100H1440M970 260H1440M970 420H1440" stroke="#ffffff" stroke-opacity=".045"/>
+<g fill="none" stroke="url(#line)" stroke-width="1">
+<path d="M1010 420 1290 80 1570 420Z"/>
+<path d="M1060 420 1290 140 1520 420Z"/>
+<path d="M1110 420 1290 200 1470 420Z"/>
+<path d="M1160 420 1290 260 1420 420Z"/>
 </g>
-<g transform="translate(800 85)">
-<rect width="330" height="220" rx="14" fill="#0b1526" stroke="#334155"/>
-<path d="M0 42H330" stroke="#334155"/>
-<circle cx="22" cy="21" r="4" fill="#67e8f9"/><circle cx="38" cy="21" r="4" fill="#818cf8"/><circle cx="54" cy="21" r="4" fill="#475569"/>
-<rect x="24" y="65" width="78" height="130" rx="7" fill="#13283b"/>
-<rect x="37" y="81" width="43" height="5" rx="2" fill="#67e8f9"/>
-<path d="M37 103H83M37 120H72M37 137H78" stroke="#36536a" stroke-width="5" stroke-linecap="round"/>
-<rect x="120" y="65" width="185" height="63" rx="7" fill="#192d43"/>
-<path d="M138 84H217M138 101H274" stroke="#60758d" stroke-width="5" stroke-linecap="round"/>
-<rect x="120" y="144" width="84" height="51" rx="7" fill="#164052"/>
-<rect x="220" y="144" width="85" height="51" rx="7" fill="#292e54"/>
-<path d="m146 164-7 6 7 6m27-12 7 6-7 6m-11-15-6 18" fill="none" stroke="#67e8f9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="m242 175 12-11 11 7 18-16" fill="none" stroke="#a5b4fc" stroke-width="3" stroke-linecap="round"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="70" y="65" fill="#d1c1ac" font-size="16" letter-spacing="4">KDO / ENGINEERING &amp; INTERFACES</text>
+<text x="1370" y="65" text-anchor="end" fill="#898b8d" font-size="14" letter-spacing="2">DITERO22</text>
+<path d="M70 92H1370" stroke="#424242" stroke-width="1"/>
+<text x="65" y="212" fill="#f3f0e9" font-size="100" font-weight="700" letter-spacing="-5">Karl Diether</text>
+<text x="65" y="316" fill="#f3f0e9" font-size="100" font-weight="700" letter-spacing="-5">Ortega<tspan fill="#b8a184">.</tspan></text>
+<text x="72" y="368" fill="#b7b8b8" font-size="24" letter-spacing=".3">Frontend developer. Web &amp; mobile applications.</text>
+<path d="M70 419H1370" stroke="#424242" stroke-width="1"/>
+<text x="72" y="460" fill="#d1c1ac" font-size="14" letter-spacing="2.5">CLARITY IN DESIGN. PURPOSE IN CODE.</text>
+<text x="1370" y="460" text-anchor="end" fill="#898b8d" font-size="14" letter-spacing="2">REACT / TYPESCRIPT / FLUTTER</text>
 </g>
 </svg>
